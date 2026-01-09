@@ -25,10 +25,12 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
+</div> <br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luna1118)](https://solved.ac/luna1118/)
+<p align="center">
+  <a href="https://solved.ac/luna1118/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luna1118" />   </a> </p>
+
 <!--
 **seoyoung000/seoyoung000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
