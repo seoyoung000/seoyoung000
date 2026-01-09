@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,python,node.js,react,js,html,css,linux,firebase)](https://skillicons.dev)
+
 <!--
 **seoyoung000/seoyoung000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
