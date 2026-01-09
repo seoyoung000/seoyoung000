@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align=center><h2>SKILL STACKS</h2></div>
+<div align=center><h2>TECH STACKS</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luna1118)](https://solved.ac/luna1118/)
 <!--
 **seoyoung000/seoyoung000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
