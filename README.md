@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div> <br><br>
 
-<p align="center">
-  <a href="https://solved.ac/luna1118/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luna1118" />   </a> </p>
 
 <!--
 **seoyoung000/seoyoung000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
